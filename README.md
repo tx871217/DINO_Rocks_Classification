@@ -2,4 +2,5 @@ DINO code is from: [`Self-Supervised Vision Transformers with DINO`](https://git
 
 [Project Proposal](DLWP-Proposal.pdf)
 
-[Project Results](Final Presentation-Rocks.pdf)
+[Project Results](Final_Presentation-Rocks.pdf)
+
